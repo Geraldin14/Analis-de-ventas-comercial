@@ -1,75 +1,48 @@
-📊 Dashboard de Análisis de Ventas en Excel
+# 📊 Dashboard de Análisis de Ventas en Excel  
 
-Este proyecto consiste en un dashboard interactivo en Excel diseñado para el análisis de ventas, beneficios y cartera de clientes. Permite obtener una visión clara del rendimiento comercial y facilita la toma de decisiones estratégicas.
+Este proyecto consiste en un **dashboard interactivo en Excel** diseñado para el análisis de ventas, beneficios y cartera de clientes. Permite obtener una visión clara del rendimiento comercial y facilita la toma de decisiones estratégicas.  
 
-✨ Características
+## ✨ Características  
+- 🔎 Filtros dinámicos por **año, mes y semana**.  
+- 📈 **Indicadores clave (KPIs):**  
+  - Ventas totales  
+  - Beneficios  
+  - Margen (%)  
+  - Facturas por cobrar  
+- 📊 **Visualizaciones interactivas:**  
+  - Ventas vs Beneficio por línea de producto  
+  - Ventas vs Beneficio por tipo de cliente (Nuevo vs Retenido)  
+  - Clientes Top Ventas  
+  - Clientes con mayor deuda  
 
-Filtros dinámicos por año, mes y semana.
+## 📷 Vista previa  
+![Dashboard Excel](e9f6f36a-bc9f-488f-8cf0-e150a669ec28.png)  
 
-Indicadores clave (KPIs):
+## 🛠️ Tecnologías y estructura del documento  
+El archivo está desarrollado en **Microsoft Excel** e incluye **3 hojas principales**:  
 
-Ventas totales
+1. **📑 Listado Ventas**  
+   - Base de datos de todas las transacciones de ventas.  
+   - Incluye información de clientes, fechas, productos, montos y estado de las facturas.  
 
-Beneficios
+2. **📊 Dashboard**  
+   - Hoja principal con el panel visual interactivo.  
+   - Contiene filtros dinámicos y gráficos con los KPIs más relevantes.  
 
-Margen (%)
+3. **📐 Cálculos**  
+   - Hoja auxiliar con fórmulas, medidas y preparaciones necesarias para alimentar el dashboard.  
+   - Facilita la organización de los datos y evita sobrecargar la hoja principal.  
 
-Facturas por cobrar
+## 🚀 Cómo usar el proyecto  
+1. 📥 Descarga el archivo Excel desde este repositorio.  
+2. 🖥️ Abre el archivo en **Microsoft Excel**.  
+3. 🎚️ Utiliza los filtros de **Año, Mes y Semana** para interactuar con el dashboard.  
+4. 🔍 Explora los gráficos para obtener insights de ventas y cartera de clientes.  
 
-Visualizaciones interactivas:
+## 📌 Objetivo  
+Facilitar el **análisis comercial** y el **seguimiento de KPIs** clave de una empresa de manera clara, visual e interactiva.  
 
-Ventas vs Beneficio por línea de producto
-
-Ventas vs Beneficio por tipo de cliente (Nuevo vs Retenido)
-
-Clientes Top Ventas
-
-Clientes con mayor deuda
-
-Indicadores gráficos (barras, líneas y donut) que facilitan la interpretación de los datos.
-
-📷 Vista previa
-
-🛠️ Tecnologías y estructura del documento
-
-El archivo está desarrollado en Microsoft Excel e incluye 3 hojas principales:
-
-📑 Listado Ventas
-
-Base de datos de todas las transacciones de ventas.
-
-Incluye información de clientes, fechas, productos, montos y estado de las facturas.
-
-📊 Dashboard
-
-Hoja principal con el panel visual interactivo.
-
-Contiene filtros dinámicos y gráficos con los KPIs más relevantes.
-
-📐 Cálculos
-
-Hoja auxiliar con fórmulas, medidas y preparaciones necesarias para alimentar el dashboard.
-
-Facilita la organización de los datos y evita sobrecargar la hoja principal.
-
-🚀 Cómo usar el proyecto
-
-Descarga el archivo Excel desde este repositorio.
-
-Abre el archivo en Microsoft Excel.
-
-Utiliza los filtros de Año, Mes y Semana para interactuar con el dashboard.
-
-Explora los gráficos para obtener insights de ventas y cartera de clientes.
-
-📌 Objetivo
-
-Facilitar el análisis comercial y el seguimiento de KPIs clave de una empresa de manera clara, visual e interactiva.
-
-📈 Posibles mejoras futuras
-
-Automatización con Power Query para actualización de datos.
-
-Conexión con bases de datos externas (SQL / Access).
-
-Migración a Power BI para mayor interactividad y escalabilidad.
+## 📈 Posibles mejoras futuras  
+- 🔄 Automatización con **Power Query** para actualización de datos.  
+- 🔗 Conexión con **bases de datos externas (SQL / Access)**.  
+- ☁️ Migración a **Power BI** para mayor interactividad y escalabilidad.  
