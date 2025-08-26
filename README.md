@@ -16,7 +16,7 @@ Este proyecto consiste en un **dashboard interactivo en Excel** diseñado para e
   - Clientes con mayor deuda  
 
 ## 📷 Vista previa  
-![Uploading image.png…]()
+<img width="1240" height="569" alt="image" src="https://github.com/user-attachments/assets/bed6afe0-cfa7-4e55-910a-946a3e5cd720" />
 
 
 
