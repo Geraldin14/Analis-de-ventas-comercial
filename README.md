@@ -16,7 +16,8 @@ Este proyecto consiste en un **dashboard interactivo en Excel** diseñado para e
   - Clientes con mayor deuda  
 
 ## 📷 Vista previa  
-![Dashboard Excel](e9f6f36a-bc9f-488f-8cf0-e150a669ec28.png)  
+<img width="1236" height="527" alt="image" src="https://github.com/user-attachments/assets/a1837b66-b3b1-4cee-8308-f475d24ea6ff" />
+
 
 ## 🛠️ Tecnologías y estructura del documento  
 El archivo está desarrollado en **Microsoft Excel** e incluye **3 hojas principales**:  
